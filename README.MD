@@ -34,7 +34,7 @@ Then open `index.html` directly in your browser - that's it!
 4. **Search** - Use the search bar to find any bookmark instantly by title, URL, or tag.
 
 
-## Screenshots
+## Screenshot
 
 ![Pero Screenshot](assets/screenshot.png)
 
