@@ -141,6 +141,7 @@ nav div {
     border-radius: 8px;
     padding: 10px;
     border: 1px solid transparent;
+    font-family: "Google Sans", sans-serif;
 }
 
 .add-bar button:hover {
@@ -174,6 +175,7 @@ nav div {
     font-size: 25px;
     padding: 10px;
     border-radius: 8px;
+    font-family: "Google Sans", sans-serif;
 }
 
 .custom-file-upload {
@@ -289,10 +291,15 @@ footer div {
 
 .bookmark-card .delete-btn {
     background-color: var(--clr-delete-btn);
+    font-family: "Google Sans", sans-serif;
 }
 
 .bookmark-card .delete-btn:hover {
     background-color: var(--clr-delete-btn-hover);
+}
+
+input {
+    font-family: "Google Sans", sans-serif;
 }
 
 /* ==========================================
@@ -313,7 +320,7 @@ footer div {
         width: 100%;
     }
 
-    .export, 
+    .export,
     .custom-file-upload {
         flex: 1;
         text-align: center;
