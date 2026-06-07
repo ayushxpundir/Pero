@@ -6,8 +6,8 @@
 ## Features
 
 - 🔍 **Search instantly** through all your saved links
-- 💾 **Offline-ready** — your data stays local
-- 📱 **Responsive design** — works on desktop and mobile
+- 💾 **Offline-ready** - your data stays local
+- 📱 **Responsive design** - works on desktop and mobile
 
 
 
@@ -23,7 +23,7 @@ git clone https://github.com/your-username/pera.git
 cd pera/Resources
 ```
 
-Then open `index.html` directly in your browser — that's it!
+Then open `index.html` directly in your browser - that's it!
 
 > Note :  For the best experience, you can also use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VS Code.
 
@@ -31,7 +31,7 @@ Then open `index.html` directly in your browser — that's it!
 ## Usage
 
 1. **Add a bookmark** — Paste a URL and Pero will auto-fill the title and description.
-4. **Search** — Use the search bar to find any bookmark instantly by title, URL, or tag.
+4. **Search** - Use the search bar to find any bookmark instantly by title, URL, or tag.
 
 
 ## Screenshots
@@ -42,7 +42,7 @@ Then open `index.html` directly in your browser — that's it!
 
 ## Tech Stack
 
-- **Frontend:** Vanilla HTML, CSS, JavaScript — no frameworks, no dependencies
+- **Frontend:** Vanilla HTML, CSS, JavaScript 
 - **Storage:** Browser localStorage (your bookmarks stay on your device)
 - **Styling:** Custom CSS with responsive media queries
 
